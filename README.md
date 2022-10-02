@@ -27,6 +27,3 @@
 
 ## Let's Get Connected!
 <a href="https://www.linkedin.com/in/keyingshao/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshao728)](https://github.com/keshao728/github-readme-stats)
