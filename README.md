@@ -1,9 +1,14 @@
+
+<div align='center'>
+ <image src="https://media.giphy.com/media/DdHspapm5FbWhQPwtG/giphy.gif" width="240" height="130" >
+</div>
+
 <h3 align="center">
   Hey! My name is Kelly, I am a
 </h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&size=25&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Software+Development+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&size=25&color=FDD2FE&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Software+Development+Engineer" alt="Typing SVG" /></a>
 <p>
 
 ## Languages:
@@ -22,3 +27,6 @@
 
 ## Let's Get Connected!
 <a href="https://www.linkedin.com/in/keyingshao/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshao728)](https://github.com/keshao728/github-readme-stats)
