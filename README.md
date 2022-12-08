@@ -25,16 +25,15 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-design
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 IDE's
 
-<img src="https://activity-graph.herokuapp.com/graph?username=keshao728&theme=high-contrast&custom_title=Contributions&title_color=FFF325"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshao728&theme=highcontrast&custom_title=Languages&langs_count=6&title_color=FFF325" height="250" width="250"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=keshao728&count_private=true&theme=highcontrast&custom_title=Stats&title_color=FFF325" height="250" width="500"/>
+</br>
 
 ## Let's Get Connected!
 <a href="https://www.linkedin.com/in/keyingshao/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
