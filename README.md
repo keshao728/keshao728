@@ -63,8 +63,11 @@
 
 
 ## Stats:
-![Kelly's GitHub stats](https://github-readme-stats-three-chi-24.vercel.app/api?username=keshao728&count_private=true&theme=omni&custom_title=Stats&line_height=32&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&show=reviews,&hide_border=true&rank_icon=percentile&show_icons=true)
-![Kelly's GitHub stats](https://github-readme-stats-three-chi-24.vercel.app/api/top-langs/?username=keshao728&theme=omni&custom_title=Languages&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_border=true&layout=compact)
+
+
+| <a href="https://github.com/keshao728"><img align="center" height=250 src="https://github-readme-stats-three-chi-24.vercel.app/api?username=keshao728&count_private=true&theme=omni&custom_title=Stats&line_height=32&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&show=reviews,&hide_border=true&rank_icon=percentile&show_icons=true" alt="keshao728's github stats" /></a> | <a href="https://github.com/keshao728"><img height=200 align="center" src="https://github-readme-stats-three-chi-24.vercel.app/api/top-langs/?username=keshao728&theme=omni&custom_title=Languages&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_border=true&layout=compact" alt="keshao728's github stats" /></a> |
+| ------------- | ------------- |
+
 </br>
 
 ## Let's Get Connected!
