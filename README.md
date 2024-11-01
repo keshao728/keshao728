@@ -17,8 +17,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![SolidJS](https://img.shields.io/badge/just%20the%20message-446B9E)
-![SolidStart](https://img.shields.io/badge/just%20the%20message-446B9E)
+![SolidJS](https://img.shields.io/badge/SolidJS-446B9E)
+![SolidStart](https://img.shields.io/badge/SolidStart-446B9E)
 
 ## Frameworks/Tools:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
