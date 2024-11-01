@@ -64,8 +64,12 @@
 
 
 ## Stats:
-![Kelly's GitHub stats](https://readme-stats-j89vnq9jq-keshao728s-projects.vercel.app/api?top-langs/?username=keshao728&theme=omni&custom_title=Languages&langs_count=3)
-![Kelly's GitHub stats](https://readme-stats-j89vnq9jq-keshao728s-projects.vercel.app/api?username=keshao728&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=32)
+<details>
+ <summary>:zap: Github Stats</summary>
+ <img align="left" alt="keshao728's Github Stats" src="https://readme-stats-j89vnq9jq-keshao728s-projects.vercel.app/api?top-langs/?username=keshao728&theme=omni&custom_title=Languages&langs_count=3"/>
+  <img align="left" alt="keshao728's Github Stats" src="https://readme-stats-j89vnq9jq-keshao728s-projects.vercel.app/api?username=keshao728&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=32"/>
+</details>
+
 </br>
 
 ## Let's Get Connected!
